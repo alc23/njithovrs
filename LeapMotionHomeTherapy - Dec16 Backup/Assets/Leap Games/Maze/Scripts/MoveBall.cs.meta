@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b406f91196b49df41a178328367dc30d
+timeCreated: 1438799113
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - xImg: {fileID: 2800000, guid: 0493874493666de43b15e3a2750fce0e, type: 3}
+  - yImg: {fileID: 2800000, guid: 63b141d74a332544dbee4288071110a9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

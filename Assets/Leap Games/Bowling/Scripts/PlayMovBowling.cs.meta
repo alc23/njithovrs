@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c638cfab43d35814d80e0c3c078339af
+timeCreated: 1457715878
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - movie1: {instanceID: 0}
+  - movie2: {instanceID: 0}
+  - movie3: {instanceID: 0}
+  - movie4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

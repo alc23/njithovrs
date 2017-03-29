@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c2a5a0caed8abaf4f8d1e49721865b4f
+timeCreated: 1443456652
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - orbdestroy: {fileID: 8300000, guid: b4b03643e4b76d448a06a368cd3b342c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

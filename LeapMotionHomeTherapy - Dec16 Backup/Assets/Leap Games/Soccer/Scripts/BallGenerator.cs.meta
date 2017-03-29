@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68c400c709617a44bbe99557acd971b9
+timeCreated: 1441033541
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - soccerBall: {instanceID: 0}
+  - shoriz: {fileID: 2800000, guid: 9cda7cb77f93f4f40b283b4521f9a093, type: 3}
+  - svert: {fileID: 2800000, guid: 76b3033d2fc099f40a3aa855000eb76a, type: 3}
+  - sspeed: {fileID: 2800000, guid: 012b41f74b5f8b845b3e995b227c8942, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
